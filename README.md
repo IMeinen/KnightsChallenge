@@ -1,8 +1,7 @@
 ## KnightsChallenge
 Esse projeto implementa um CRUD de uma api de cavalheiros,o back-end foi feito em nodeJS/ExpressJS/MongoDB e o front-end em vuejs.
 
-![screenshot](https://github.com/IMeinen/ProjectMarkCodingChallenge/blob/main/projectMarkScreenshoot.png)
-
+![screenshot](https://github.com/IMeinen/KnightsChallenge/blob/main/KCHome.png)
 ## Instalacao e configuracao
 
 #### Requisitos
